@@ -580,6 +580,7 @@ Version: 1.0
 	font-size: 80px;
 	top: 27px;	 
 }
+
 .fun-facts .text-content h1 {
 	color: #333;
 	font-size: 32px;
@@ -666,6 +667,7 @@ Version: 1.0
 }
 .services .service-slider{
 	margin-top:30px;
+	
 }
 .services .single-service {
 	position: relative;
@@ -705,6 +707,7 @@ Version: 1.0
 .services .service-slider .single-service.slick-center i,
 .services .service-slider .single-service.slick-center p{
 	color:#fff;
+	
 }
 /* Slider Meta */
 .services .owl-nav{
